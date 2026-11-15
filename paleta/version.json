@@ -1,8 +1,8 @@
 {
- "web": 3,
+ "web": 4,
  "nativo": "3c3a4c8817ed",
  "zip": "web.zip",
  "apk": "paleta.apk",
- "fecha": "2026-11-15T13:04:09Z",
- "notas": "Descripci\u00f3n libre del jugador con IA y preparaci\u00f3n guiada antes de grabar"
+ "fecha": "2026-11-15T13:34:26Z",
+ "notas": "Pelota y paleta: timing del impacto, \u00e1ngulo de la cara y velocidad de salida"
 }
