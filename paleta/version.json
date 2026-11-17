@@ -1,8 +1,8 @@
 {
- "web": 8,
- "nativo": "3c3a4c8817ed",
+ "web": 9,
+ "nativo": "cb7f0a798716",
  "zip": "web.zip",
  "apk": "paleta.apk",
- "fecha": "2026-11-15T14:58:58Z",
- "notas": "Animaci\u00f3n explicativa: error de cada golpe, flechas de correcci\u00f3n, distancia a la mesa y bote"
+ "fecha": "2026-11-17T19:54:10Z",
+ "notas": "Redise\u00f1o: interfaz m\u00e1s limpia y clara, video real junto al maniqu\u00ed corregido"
 }
